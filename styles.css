@@ -19,21 +19,15 @@ p {
 }
 
 .intro p {
-  color: rgb(41, 36, 36);
-}
-
-.image-text {
-width: 400px;
-text-align: left;
+  text-align: center;
 }
 
 .side-view {
-width: 300px;
-max-width: 300px;
+width: 600px;
 display: inline-block;
+margin-left: 40px;
 }
 
 h2 {
   color:rgb(224, 63, 63);
-  text-align: center;
 }
