@@ -1,8 +1,8 @@
 .intro {
-  width: 800px;
   background-color: darkgrey;
   border-radius: 10px;
   text-align: center;
+  padding: 10px 20px;
 }
 
 .intro h1 {
