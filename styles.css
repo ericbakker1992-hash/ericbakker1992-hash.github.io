@@ -8,9 +8,8 @@ p {
 
 .intro {
   font-family: 'Courier New', Courier, monospace;
-  background-color: rgb(255, 254, 254);
+  background-color: rgb(233, 231, 231);
   border-radius: 10px;
-  text-align: center;
   padding: 10px 20px;
 }
 
