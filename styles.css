@@ -1,3 +1,9 @@
+.intro {
+  width: 800px;
+  background-color: darkgrey;
+  border-radius: 10px;
+}
+
 .intro h1 {
   color: blue;
 }
