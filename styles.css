@@ -1,14 +1,15 @@
 .intro {
-  background-color: darkgrey;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(255, 254, 254);
   border-radius: 10px;
   text-align: center;
   padding: 10px 20px;
 }
 
 .intro h1 {
-  color: blue;
+  color: rgb(224, 63, 63);
 }
 
 .intro p {
-  color: brown;
+  color: rgb(41, 36, 36);
 }
