@@ -31,7 +31,7 @@ text-align: left;
 .side-view {
 width: 300px;
 max-width: 300px;
-text-align: right;
+display: inline-block;
 }
 
 h2 {
