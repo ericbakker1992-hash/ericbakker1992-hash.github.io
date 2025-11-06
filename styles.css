@@ -13,3 +13,12 @@
 .intro p {
   color: rgb(41, 36, 36);
 }
+
+.image-text {
+width: 400px;
+text-align: left;
+}
+
+.side-view {
+width: 800px;
+}
