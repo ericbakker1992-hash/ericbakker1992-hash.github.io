@@ -1,3 +1,11 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+* p {
+  color: rgb(41, 36, 36);
+}
+
 .intro {
   font-family: 'Courier New', Courier, monospace;
   background-color: rgb(255, 254, 254);
