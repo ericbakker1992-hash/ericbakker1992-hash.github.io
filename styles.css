@@ -40,6 +40,8 @@ h2 {
   width: 70vw;
   margin: 10px auto;
   padding: 10px;
+  background-color: #143cbe;
+  border: 2px solid red;
 }
 
 .side-by-side {
@@ -49,4 +51,5 @@ h2 {
   margin: 10px auto;
   padding: 5px;
   display: flex;
+  border: 2px dashed green;
 }
