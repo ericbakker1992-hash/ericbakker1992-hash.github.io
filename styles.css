@@ -21,11 +21,10 @@ p {
 }
 
 .side-view {
-width: 40%;
+width: 100%;
 max-width: 100%;
 height: auto;
 padding: 10px;
-display: flex;
 margin: 5px;
 border-radius: 10px;
 border-color: rgb(219, 219, 52);  
@@ -52,6 +51,7 @@ h2 {
   margin: 10px auto;
   padding: 5px;
   display: flex;
+  flex-wrap:wrap;
   border: 2px dashed green;
   overflow: auto;
 }
